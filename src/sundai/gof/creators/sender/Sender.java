@@ -1,4 +1,4 @@
-package sundai.gof.creators.abstractFactory.sender;
+package sundai.gof.creators.sender;
 
 /**
  * Created by xh on 2015/10/10.

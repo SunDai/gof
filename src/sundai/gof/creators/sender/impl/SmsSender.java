@@ -1,6 +1,6 @@
-package sundai.gof.creators.abstractFactory.sender.impl;
+package sundai.gof.creators.sender.impl;
 
-import sundai.gof.creators.abstractFactory.sender.Sender;
+import sundai.gof.creators.sender.Sender;
 
 /**
  * Created by xh on 2015/10/10.

@@ -2,7 +2,7 @@ package sundai.gof.creators.abstractFactory;
 
 import sundai.gof.creators.abstractFactory.producer.Producer;
 import sundai.gof.creators.abstractFactory.producer.impl.SmsSenderFactory;
-import sundai.gof.creators.abstractFactory.sender.Sender;
+import sundai.gof.creators.sender.Sender;
 
 /**
  * Created by xh on 2015/10/10.
