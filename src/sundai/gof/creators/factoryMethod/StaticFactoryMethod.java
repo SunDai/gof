@@ -16,5 +16,5 @@ public class StaticFactoryMethod {
     public static Sender produceSms(){
         return new SmsSender();
     }
-
+    //TODO staic  的用法的优点等
 }
